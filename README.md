@@ -65,9 +65,10 @@
 <a href="https://bi.zone/"><code><img width="5%" title="BI.ZONE" src="https://www.connect-wit.ru/wp-content/uploads/2020/03/BI.ZONE-logo_Cybersecurity_RGB_SQ_Light-Blue.png"></code></a> Проект по автоматизации тестирования для <a target="_blank" href="https://bi.zone/">BI.ZONE</a> — компания по управлению цифровыми рисками.
 :star2:
 
-<a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/BIZONE/"><h2>👷‍♂️ Сборки в [Jenkins](https://jenkins.autotests.cloud/job/BIZONE/)<h2></a>
+<a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/IBS/"><h2>👷‍♂️ Сборки в [Jenkins](https://jenkins.autotests.cloud/job/IBS/)<h2></a>
 
-![This is an image](design/pictures/jenkins.png)
+![image](https://github.com/DandieKYT/IBS/assets/75677738/225bb5ac-f921-4099-bfe2-f1ae208b174d)
+
 
 <a name="terminal"><h2>:computer: Запуск из терминала</h2></a>
 Удаленный запуск:
@@ -77,15 +78,17 @@
 clean test
 
 ```
-<a name="Allure_report"><h2>:chart_with_downwards_trend: Allure </a><a href="https://jenkins.autotests.cloud/job/BIZONE/5/allure/">отчет</a></h2>
+<a name="Allure_report"><h2>:chart_with_downwards_trend: Allure </a><a href="https://jenkins.autotests.cloud/job/IBS/4/allure/">отчет</a></h2>
 
 - <a name="Allure_report1"><h3>Главный экран отчета</h3></a>
 
-![This is an image](design/pictures/allure1.png)
+![image](https://github.com/DandieKYT/IBS/assets/75677738/0c8ba48f-7448-4776-9205-c96bc8a273c9)
+
 
 -  <a name="Allure_report2"><h3>Страница с проведенными тестами</h3></a>
 
-![This is an image](design/pictures/allure2.png)
+![image](https://github.com/DandieKYT/IBS/assets/75677738/e2c8efcc-96eb-4b64-82e5-f123bdeba5c8)
+
 
 <a name="Integration_Allure_TestOps"><h2>:bar_chart: Интеграция с Allure TestOps</h2></a>
 
@@ -94,12 +97,16 @@ clean test
 
 <a name="Telegram"><h2>:iphone: Отчет в Telegram</h2></a>
 
-![This is an image](design/pictures/telegram.jpg)
+![image](https://github.com/DandieKYT/IBS/assets/75677738/2eff8402-04bb-42f5-9e35-8e26804d6fab)
+
 
 <a name="Video"><h2>:movie_camera: Видео примеры прохождения тестов</h2></a>
 
 - <a name="Video1"><h3>Пример запуска тестов через selenoid</h3></a>
-    <h1><a href="https://selenoid.autotests.cloud/video/e3e723968a6e10d3b7d8bb4f5b7eb525.mp4">Открытие страниц Карьера/Материалы<br>
+    <h1><a href="https://selenoid.autotests.cloud/video/7ae9c9d1f8fa92f25cd27479cdeefc41.mp4">IBS_Test<br>
+    
+
+https://github.com/DandieKYT/IBS/assets/75677738/ed2fee78-d2b6-4a25-9855-649ce78a2617
 
 
 
