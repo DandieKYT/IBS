@@ -47,18 +47,20 @@
 
 <a name="ImplementedСhecks"><h2>:heavy_check_mark:  Реализованные проверки:</h2></a> 
 
-:clipboard: Наличие вакансии тестировщика на <a href = "https://spb.hh.ru/employer/2367681?roistat_visit=633908">HH </br>
+:clipboard: Наличие вакансии тестировщика на <a href = "https://ibs.ru/career/jobs/">сайте компании </br>
 
-:speech_balloon: Переход на официальную страницу компании в <a href = "https://vk.com/bi_zone_vk?roistat_visit=633908">ВК
+:speech_balloon: Переход на официальную страницу компании в <a href = "https://vk.com/ru_ibs">ВК<a href = "https://t.me/ibs_ru">/Telegram</a>
+
+</br>
+:clipboard: Открытие страниц <a href = "https://ibs.ru/company/products/program-management/">Управление программами</a>/<a href = "https://ibs.ru/industries/agro/?transition=true">Агропромышленность</a>
+и проверка их содержимого.
 </br>
 
-:clipboard: Открытие страниц <a href = "https://bi.zone/about/career/">Карьера</a>/<a href = "https://bi.zone/expertise/research/">Материалы</a>
+🔎 Соответствие результатов выдачи во вкладке<a href = "https://ibs.ru/search/?backurl=%2Findustries%2Fagro%2F&q=1%D1%81"> поиск.
 </br>
 
-🔎 Соответствие результатов выдачи во вкладке<a href = "https://bi.zone/catalog/"> "Продукты"
-</br>
-
-:card_index_dividers: Чтение и проверка содержимого PDF файла <a href = "https://bi.zone/upload/for_download/bi_zone_the_fundamentals_of_business_continuity_management_ru.pdf">"Путь к цифровому лидерству. Основы управления непрерывностью бизнеса".<a/>
+:card_index_dividers: 
+Проверка документа о персональных данных <a href = "https://ibs.ru/personal_data_and_legal/">о персональных данных.<a/>
 </br>
 
 <a name="Project"><h2>Проект</h2></a>
