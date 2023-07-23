@@ -8,7 +8,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
 public class IndustrySolutionsTest extends TestBase {
-    @Tag("productsAndCompany")
+    @Tag("controlProgramAndAgroindustry")
     @CsvSource(value = {
             "Решения и услуги  ,      Управление программами",
             "Отраслевые решения,   Агропромышленность" ,
