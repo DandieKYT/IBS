@@ -14,7 +14,7 @@ public class IndustrySolutionsTest extends TestBase {
             "Отраслевые решения,   Агропромышленность" ,
 
     })
-    @Owner("Kudryavtsev")
+    @Owner("Кудрявцев")
     @Feature("Управление программами и Агропромышленность")
     @Story("Открытие страниц Управление программами, Агропромышленность и проверка их содержимого")
     @ParameterizedTest
