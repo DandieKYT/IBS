@@ -50,8 +50,8 @@
 :clipboard: Наличие вакансии тестировщика на <a href = "https://ibs.ru/career/jobs/">сайте компании </br>
 
 :speech_balloon: Переход на официальную страницу компании в <a href = "https://vk.com/ru_ibs">ВК<a href = "https://t.me/ibs_ru">/Telegram</a>
-
 </br>
+
 :clipboard: Открытие страниц <a href = "https://ibs.ru/company/products/program-management/">Управление программами</a>/<a href = "https://ibs.ru/industries/agro/?transition=true">Агропромышленность</a>
 и проверка их содержимого.
 </br>
