@@ -64,7 +64,7 @@
 </br>
 
 <a name="Project"><h2>Проект</h2></a>
-<a href="https://ibs.ru/"><code><img width="5%" title="BI.ZONE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IBS_logo_new.png/200px-IBS_logo_new.png"></code></a> Проект по автоматизации тестирования для <a target="_blank" href="https://bi.zone/">BI.ZONE</a> — компания по управлению цифровыми рисками.
+<a href="https://ibs.ru/"><code><img width="5%" title="BI.ZONE" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IBS_logo_new.png/200px-IBS_logo_new.png"></code></a> Проект по автоматизации тестирования для <a target="_blank" href="https://ibs.ru/">IBS</a> — бизнес- и технологический партнер лидеров российского бизнеса.
 :star2:
 
 <a name="Build_in_Jenkins" href="https://jenkins.autotests.cloud/job/IBS/"><h2>👷‍♂️ Сборки в [Jenkins](https://jenkins.autotests.cloud/job/IBS/)<h2></a>
