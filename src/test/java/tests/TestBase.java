@@ -5,10 +5,7 @@ import help.Attachment;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import pages.BasePage;
-import pages.SearchPage;
-import pages.SocialGroupPage;
-import pages.VacationPage;
+import pages.*;
 
 import java.util.Map;
 
@@ -18,6 +15,8 @@ public class TestBase extends Attachment {
     SearchPage searchPage = new SearchPage();
     SocialGroupPage socialGroupPage = new SocialGroupPage();
     VacationPage vacationPage = new VacationPage();
+    PersonalDataPage personalDataPage = new PersonalDataPage();
+    ControlProgramAndAgroindustryPage controlProgramAndAgroindustryPage = new ControlProgramAndAgroindustryPage();
 
     Attachment attachment = new Attachment();
 
