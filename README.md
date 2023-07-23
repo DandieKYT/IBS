@@ -45,7 +45,7 @@
 `Telegram Bot` - для уведомлений о результатах тестирования.\
 `Allure TestOps` - система управления тестированием.
 
-<a name="ImplementedСhecks"><h2>:heavy_check_mark:  Реализованные проверки:</h2></a>
+<a name="ImplementedСhecks"><h2>:heavy_check_mark:  Реализованные проверки:</h2></a> 
 
 :clipboard: Наличие вакансии тестировщика на <a href = "https://spb.hh.ru/employer/2367681?roistat_visit=633908">HH </br>
 
