@@ -42,7 +42,7 @@ public class Attachment {
     }
 
     @io.qameta.allure.Attachment(value = "Скриншот", type = "image/png", fileExtension = "png")
-    public byte[] attachScreenshot() {
+    public byte[]attachScreenshot() {
         return ((TakesScreenshot) getWebDriver()).getScreenshotAs(OutputType.BYTES);
     }
 
