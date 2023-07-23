@@ -7,6 +7,8 @@ import org.junit.jupiter.api.BeforeAll;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import pages.BasePage;
 import pages.SearchPage;
+import pages.SocialGroupPage;
+import pages.VacationPage;
 
 import java.util.Map;
 
@@ -14,6 +16,8 @@ import java.util.Map;
 public class TestBase extends Attachment {
     BasePage basePage = new BasePage();
     SearchPage searchPage = new SearchPage();
+    SocialGroupPage socialGroupPage = new SocialGroupPage();
+    VacationPage vacationPage = new VacationPage();
 
     Attachment attachment = new Attachment();
 
