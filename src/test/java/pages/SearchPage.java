@@ -28,7 +28,7 @@ public class SearchPage {
     }
     public SearchPage checkOutResult() {
         step("Проверка наличия результата по запросу 1C", () -> {
-            checkOutResult.shouldBe(Condition.text("1C"));
+            checkOutResult.shouldBe(Condition.text("# Цифровизация"));
         });
         return this;
     }

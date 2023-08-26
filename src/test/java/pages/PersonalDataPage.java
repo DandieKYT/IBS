@@ -11,7 +11,7 @@ import static io.qameta.allure.Allure.step;
 public class PersonalDataPage {
     private SelenideElement
             buttonWriteUs = $x("//a[text()='Написать нам']"),
-            openPersonalDataDocument = $x("//*[contains(@class, 'feedback')]//a[text()='персональных данных']"),
+            openPersonalDataDocument = $(".feedback .checkbox > span:nth-of-type(2) > a"),
             checkoutDocument = $x("//h1[contains(text(), 'Политика в сфере персональных данных')]");
 
     public PersonalDataPage buttonWriteUs() {
