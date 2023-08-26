@@ -13,6 +13,7 @@ public class PersonalDataTest extends TestBase {
     public void documentTest(){
     basePage.openPage();
     personalDataPage.buttonWriteUs();
+    personalDataPage.scrollToElementData();
     personalDataPage.openPersonalDataDocument();
     personalDataPage.checkoutDocument();
 }

@@ -8,7 +8,6 @@ import org.junit.jupiter.api.Test;
 
 public class SearchTest extends TestBase {
     @Test
-    @Disabled
     @Feature("Проверка поиска")
     @Story("Ввод в строку поиска \"1С\" и проверка наличия соответствующего результата")
     @Owner("Кудрявцев")

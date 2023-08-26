@@ -11,6 +11,8 @@ import static io.qameta.allure.Allure.step;
 public class PersonalDataPage {
     private SelenideElement
             buttonWriteUs = $x("//a[text()='Написать нам']"),
+
+            scrollToElementData = $x("//*[@id='message']"),
             openPersonalDataDocument = $(".feedback .checkbox > span:nth-of-type(2) > a"),
             checkoutDocument = $x("//h1[contains(text(), 'Политика в сфере персональных данных')]");
 
@@ -20,9 +22,14 @@ public class PersonalDataPage {
         });
         return this;
     }
+    public PersonalDataPage scrollToElementData() {
+        step("Пролиставание страницы до элемента персональные данные", () -> {
+            scrollToElementData.scrollIntoView(true);
+        });
+        return this;
+    }
     public PersonalDataPage openPersonalDataDocument() {
         step("Открытие данных о Политике в сфере персональных данных", () -> {
-            openPersonalDataDocument.scrollIntoView(true);
             openPersonalDataDocument.click();
         });
         return this;
